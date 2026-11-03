@@ -1,0 +1,1 @@
+{"name":"sistema-controle-estoque","version":"1.0.0","description":"CRUD de produtos e fornecedores com API REST e BrasilAPI","main":"server.js","scripts":{"start":"node server.js","dev":"node --watch server.js"},"engines":{"node":">=18"}}
